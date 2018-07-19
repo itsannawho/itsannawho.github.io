@@ -1,0 +1,117 @@
+            html {
+                background-image: url(../images/websitepattern.png);
+            }
+
+            header {
+                height: 200px;
+                background-image: url(../images/websitebanner.png);
+            }
+
+            body {
+                width: 960px;
+                margin: 15px auto 0 auto;
+                background-color: #103775;
+
+            }
+
+            section {
+                width: 910px;
+                height: auto;
+                margin-top: 0px;
+                padding: 25px;
+            }
+
+            article {
+                width: 700px;
+                margin-left: auto;
+                margin-right: auto;
+                border: 5px solid #103775;
+                background-color: white;
+            }
+
+            img {
+                box-shadow: 5px 5px 100px white;
+            }
+
+            footer {
+                height: 50px;
+                background-color: #103775;
+            }
+
+            /*            nav bar styles*/
+
+            nav {
+                height: 30px;
+                margin: auto;
+                background-color: #103775;
+                text-align: center;
+            }
+
+            a {
+                width: 30px;
+                font-size: 16pt;
+                font-family: 'ABeeZee', sans-serif;
+                text-align: center;
+                color: #fcedd9;
+                text-align: center;
+                text-decoration: none;
+                padding: 5px 27px;
+                margin: 0;
+                border-bottom: 5px inset #bc569c;
+
+            }
+
+            a.hover {
+                border: 1px solid white;
+                color: white;
+            }
+
+            footer {
+                height: 50px;
+                text-align: center;
+
+            }
+
+            /*            text styles*/
+
+            h1 {
+                font-family: 'Fredoka One';
+                font-size: 40pt;
+                line-height: 60pt;
+                color: #fff;
+                letter-spacing: 20px;
+                text-align: center;
+                padding: 025px;
+            }
+
+            h2 {
+                font-family: 'Poppins', sans-serif;
+                font-size: 20pt;
+                color: #bc569c;
+                line-height: 18pt;
+                text-indent: 25px;
+            }
+
+            h3 {
+                font-family: 'Poppins', sans-serif;
+                font-size: 12pt;
+                color: #103775;
+                line-height: 0pt;
+                text-align: right;
+                margin-right: 25px;
+                margin-bottom: 25px;
+            }
+
+            h4 {
+                font-family: 'Poppins', sans-serif;
+                font-size: 10pt;
+                line-height: 40pt;
+                color: #fcedd9;
+            }
+
+            p {
+                font-family: 'ABeeZee', sans-serif;
+                font-size: 11pt;
+                line-height: 13pt;
+                padding: 0 25px;
+            }
